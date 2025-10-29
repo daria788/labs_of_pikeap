@@ -7,7 +7,7 @@ public interface IPrint
 
 public class Geom_figures
 {
-    public virtual double Square()A
+    public virtual double Square()
     {
         return 0;
     }
