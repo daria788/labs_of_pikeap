@@ -91,7 +91,7 @@ class Program
 
     static void Main()
     {
-        Console.WriteLine("Введите параметры фигур:\n");
+        Console.WriteLine("Параметры фигур\n");
 
         double rectWidth = ReadDouble("Введите ширину прямоугольника: ");
         double rectHeight = ReadDouble("Введите длину прямоугольника: ");
