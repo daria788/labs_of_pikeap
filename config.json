@@ -1,0 +1,127 @@
+{
+  "characters": {
+    "albedo": {
+      "name_en": "Albedo",
+      "name_ru": "Альбедо",
+      "role": "Sub DPS",
+      "weapon": "Peak Patrol Song",
+      "artifact_set": "Husk of Opulent Dreams",
+      "pieces": 4,
+      "sands": "DEF%",
+      "goblet": "Geo DMG",
+      "circlet": "CRIT Rate / DMG / DEF%"
+    },
+    "ayaka": {
+      "name_en": "Ayaka",
+      "name_ru": "Аяка",
+      "role": "Main DPS",
+      "weapon": "Mistsplitter Reforged",
+      "artifact_set": "Blizzard Strayer",
+      "pieces": 4,
+      "sands": "ATK%",
+      "goblet": "Cryo DMG",
+      "circlet": "CRIT DMG / ATK%"
+    },
+    "bennett": {
+      "name_en": "Bennett",
+      "name_ru": "Беннет",
+      "role": "Support",
+      "weapon": "Mistsplitter Reforged",
+      "artifact_set": "Noblesse Oblige",
+      "pieces": 4,
+      "sands": "ATK% / ER",
+      "goblet": "Pyro DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "diluc": {
+      "name_en": "Diluc",
+      "name_ru": "Дилюк",
+      "role": "Main DPS",
+      "weapon": "Redhorn Stonethresher",
+      "artifact_set": "Crimson Witch of Flames",
+      "pieces": 4,
+      "sands": "ATK% / EM",
+      "goblet": "Pyro DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "furina": {
+      "name_en": "Furina",
+      "name_ru": "Фурина",
+      "role": "Sub DPS",
+      "weapon": "Splendor of Tranquil Waters",
+      "artifact_set": "Golden Troupe",
+      "pieces": 4,
+      "sands": "ER",
+      "goblet": "Hydro DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "hu_tao": {
+      "name_en": "Hu Tao",
+      "name_ru": "Ху Тао",
+      "role": "Main DPS",
+      "weapon": "Staff of Homa",
+      "artifact_set": "Crimson Witch of Flames",
+      "pieces": 4,
+      "sands": "HP% / EM",
+      "goblet": "Pyro DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "klee": {
+      "name_en": "Klee",
+      "name_ru": "Кли",
+      "role": "Main DPS",
+      "weapon": "The Widsith R5",
+      "artifact_set": "Crimson Witch of Flames + Shimenawa's Reminiscence",
+      "pieces": "2+2",
+      "sands": "ATK%",
+      "goblet": "Pyro DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "raiden": {
+      "name_en": "Raiden Shogun",
+      "name_ru": "Райден Шогун",
+      "role": "Sub DPS",
+      "weapon": "Engulfing Lightning",
+      "artifact_set": "Emblem of Severed Fate",
+      "pieces": 4,
+      "sands": "ER / ATK%",
+      "goblet": "Electro DMG / ATK%",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "xiao": {
+      "name_en": "Xiao",
+      "name_ru": "Сяо",
+      "role": "Main DPS",
+      "weapon": "Primordial Jade Winged-Spear",
+      "artifact_set": "Vermillion Hereafter",
+      "pieces": 4,
+      "sands": "ATK%",
+      "goblet": "Anemo DMG",
+      "circlet": "CRIT Rate / DMG"
+    },
+    "yelan": {
+      "name_en": "Yelan",
+      "name_ru": "Илань",
+      "role": "Sub DPS",
+      "weapon": "Elegy for the End",
+      "artifact_set": "Emblem of Severed Fate",
+      "pieces": 4,
+      "sands": "ER",
+      "goblet": "Hydro DMG",
+      "circlet": "CRIT Rate / DMG"
+    }
+  },
+  "aliases": {
+    "альбедо": "albedo",
+    "аяка": "ayaka",
+    "беннет": "bennett",
+    "дилюк": "diluc",
+    "фурина": "furina",
+    "ху тао": "hu_tao",
+    "кли": "klee",
+    "шогун": "raiden",
+    "райден": "raiden",
+    "сяо": "xiao",
+    "илань": "yelan"
+  }
+}
