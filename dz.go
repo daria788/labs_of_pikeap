@@ -24,7 +24,7 @@ type Character struct {
 }
 
 var (
-	botToken   = "8374734234:AAFf66s_UYrJyfMxt_jgQwmuyXoWKxQhh4M"
+	botToken   = "83"
 	characters map[string]Character
 	aliases    map[string]string
 	userStates = make(map[string]string)
@@ -399,3 +399,4 @@ func doCompare(bot *tgbotapi.BotAPI, msg *tgbotapi.Message, c1, c2 Character) {
 	reply := "🆚 Сравнение:\n\n🔵 " + format(c1) + "\n\n🔴 " + format(c2)
 	bot.Send(tgbotapi.NewMessage(msg.Chat.ID, reply))
 }
+
