@@ -5,7 +5,7 @@ from telebot import types
 with open("config.json", "r", encoding="utf-8") as f:
     config = json.load(f)
 
-bot = telebot.TeleBot('8374734234:AAFf66s_UYrJyfMxt_jgQwmuyXoWKxQhh4M')
+bot = telebot.TeleBot('83')
 characters = config["characters"]
 aliases = config["aliases"]
 
@@ -125,4 +125,5 @@ def show_character_build(message, query):
 
 if __name__ == "__main__":
     print("✅ Бот запущен!")
+
     bot.polling(none_stop=True)
